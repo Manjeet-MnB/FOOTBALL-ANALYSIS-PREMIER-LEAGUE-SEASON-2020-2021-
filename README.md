@@ -18,4 +18,8 @@ Numpy, Pandas, Matplotlib, Seaborn
 7 - Sheffield United has scored least number of goals
 }
 ```
+![Capture](https://user-images.githubusercontent.com/71639295/175978510-03c63780-60f0-4e7f-8e55-99110a173104.JPG)
+![Capture1](https://user-images.githubusercontent.com/71639295/175978565-b01357f2-2520-4c4b-8960-130f1890a75c.JPG)
+![Capture2](https://user-images.githubusercontent.com/71639295/175978607-2aa9bfce-0927-4005-a75f-4a457227442e.JPG)
+![Capture3](https://user-images.githubusercontent.com/71639295/175978654-2d969e55-bb3d-4bbb-bed7-82863eac7a63.JPG)
 
